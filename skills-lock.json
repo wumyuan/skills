@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "frontend-monthly-work-summary": {
+      "source": "wumyuan/skills",
+      "sourceType": "github",
+      "computedHash": "b653aff9b4553a9bb490ec33e455f6160254ab9c08c542b1bf2f59a5ce19346b"
+    }
+  }
+}
